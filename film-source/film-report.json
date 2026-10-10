@@ -1,0 +1,29 @@
+{
+  "duration": 42,
+  "fps": 30,
+  "resolution": [
+    1280,
+    720
+  ],
+  "map": [
+    6324,
+    724
+  ],
+  "music": "Original 16-bar C major waltz, 72 BPM, five acoustic parts",
+  "interpolation": "local bidirectional Farneback optical flow, premultiplied RGBA",
+  "npcs": {
+    "gardener": [
+      1110,
+      526
+    ],
+    "baker": [
+      2820,
+      528
+    ],
+    "elder": [
+      5470,
+      370
+    ]
+  },
+  "bridgeOcclusion": true
+}

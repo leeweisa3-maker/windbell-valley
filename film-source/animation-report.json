@@ -1,0 +1,57 @@
+{
+  "courier": {
+    "cycleSeconds": 1.2,
+    "fps": 30,
+    "frames": 36,
+    "anchor": [
+      144,
+      210
+    ],
+    "keyFrames": 6,
+    "interpolation": "bidirectional Farneback optical flow in premultiplied RGBA with silhouette occlusion guard"
+  },
+  "fox": {
+    "cycleSeconds": 1.2,
+    "fps": 30,
+    "frames": 36,
+    "anchor": [
+      144,
+      210
+    ],
+    "keyFrames": 6,
+    "interpolation": "bidirectional Farneback optical flow in premultiplied RGBA with silhouette occlusion guard"
+  },
+  "gardener": {
+    "cycleSeconds": 4.0,
+    "fps": 30,
+    "frames": 120,
+    "anchor": [
+      144,
+      210
+    ],
+    "keyFrames": 4,
+    "interpolation": "bidirectional Farneback optical flow in premultiplied RGBA with silhouette occlusion guard"
+  },
+  "baker": {
+    "cycleSeconds": 4.0,
+    "fps": 30,
+    "frames": 120,
+    "anchor": [
+      144,
+      210
+    ],
+    "keyFrames": 4,
+    "interpolation": "bidirectional Farneback optical flow in premultiplied RGBA with silhouette occlusion guard"
+  },
+  "elder": {
+    "cycleSeconds": 4.0,
+    "fps": 30,
+    "frames": 120,
+    "anchor": [
+      144,
+      210
+    ],
+    "keyFrames": 4,
+    "interpolation": "bidirectional Farneback optical flow in premultiplied RGBA with silhouette occlusion guard"
+  }
+}
