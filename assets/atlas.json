@@ -1,0 +1,1 @@
+{"image":"characters.png","size":[1254,1254],"grid":[4,4],"rows":["traveler","baker","gardener","tea-keeper"],"columns":["idle-front","walk-left-step","walk-right-step","idle-back"],"walkSequence":[1,2],"framesPerSecond":7,"worldDrawSize":[116,116]}
